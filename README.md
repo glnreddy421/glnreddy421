@@ -6,14 +6,20 @@ Senior Systems Engineer with 8+ years building and securing cloud infrastructure
 
 I'm currently building [klew](https://klew.dev), an open-source desktop app for investigating Kubernetes incidents.
 
+## What I'm Exploring
+
+- **MCP servers:** giving AI tools safe, structured access to infrastructure and developer systems
+- **AI agents:** making them observable, debuggable, and least-privilege by default
+- **Reliable, secure platforms:** multi-region AWS EKS, GitOps, image signing and admission control, Istio mTLS, eBPF with Cilium and Hubble
+  
 ## Open Source Projects
 
-- [klew](https://github.com/glnreddy421/klew) - Kubernetes incident investigation desktop app. Brings workloads, events, and logs into one workspace for on-call engineers. Built with Wails, Go, React, and client-go (Apache 2.0).
-- [homebrew-klew](https://github.com/glnreddy421/homebrew-klew) - Homebrew tap for installing klew on macOS.
+- [klew](https://github.com/glnreddy421/klew) - Kubernetes incident investigation desktop app. Brings workloads, events, and logs into one workspace for on-call engineers.
+
 
 ## What I Work With
 
-Kubernetes · AWS (EKS) · Terraform · Ansible · ArgoCD · Istio · Cilium · Prometheus · Go · Python
+Kubernetes · AWS (EKS) · Terraform · Ansible · ArgoCD · Istio · Cilium · Prometheus · Go · Python · MCP
 
 ## Reach Out
 
