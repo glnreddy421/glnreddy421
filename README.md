@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Laxmi 👋
 
-<!--
-**glnreddy421/glnreddy421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Senior Systems Engineer with 8+ years building and securing cloud infrastructure. I focus on Kubernetes platforms, DevSecOps, and observability: multi-region AWS EKS, GitOps, container image signing and admission control, Istio mTLS, and eBPF with Cilium and Hubble.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building [klew](https://klew.dev), an open-source desktop app for investigating Kubernetes incidents.
+
+## Open Source Projects
+
+- [klew](https://github.com/glnreddy421/klew) - Kubernetes incident investigation desktop app. Brings workloads, events, and logs into one workspace for on-call engineers. Built with Wails, Go, React, and client-go (Apache 2.0).
+- [homebrew-klew](https://github.com/glnreddy421/homebrew-klew) - Homebrew tap for installing klew on macOS.
+
+## What I Work With
+
+Kubernetes · AWS (EKS) · Terraform · Ansible · ArgoCD · Istio · Cilium · Prometheus · Go · Python
+
+## Reach Out
+
+[LinkedIn](https://www.linkedin.com/in/glnreddy) · [klew.dev](https://klew.dev)
